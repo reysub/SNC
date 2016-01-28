@@ -1,0 +1,7 @@
+alert_frequency=1
+separation_symbol=space
+unwanted_nodes=begin
+node1
+node2
+end_unwanted_nodes
+exclusion_criteria=partial

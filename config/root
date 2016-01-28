@@ -1,0 +1,4 @@
+input_file=../data/06_nodes
+mapping=../config/mapping
+degrees=../config/degreesComputation
+partitioning=../config/partitioning

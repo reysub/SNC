@@ -1,0 +1,6 @@
+alert_frequency=1
+maximum_threshold=3
+minimum_threshold=1
+expansion_ratio=1
+expansion_percentage=1
+halting_condition=expansion_percentage:maximum_threshold
